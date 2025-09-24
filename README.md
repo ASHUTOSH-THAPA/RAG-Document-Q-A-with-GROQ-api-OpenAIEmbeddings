@@ -1,0 +1,1 @@
+# RAG-Document-Q-A-with-GROQ-api-OpenAIEmbeddings
