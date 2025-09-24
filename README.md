@@ -30,5 +30,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system for qu
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/ASHUTOSH-THAPA/RAG-Document-Q-A-with-GROQ-api-OpenAIEmbeddings.git
+cd RAG-Document-Q-A-with-GROQ-api-OpenAIEmbeddings
+pip install -r requirements.txt
+
