@@ -1,7 +1,7 @@
-# RAG Q/A Project with Groq API and OpenAI Embeddings
+# RAG Q/A Project with OpenAI Embeddings
 
 ## Overview
-This project implements a **Retrieval-Augmented Generation (RAG)** system for question-answering using **Groq API** and **OpenAI embeddings**. The system allows users to ask questions and receive accurate, context-aware answers from a knowledge base.  
+This project implements a **Retrieval-Augmented Generation (RAG)** system for question-answering using **OpenAI embeddings**. The system allows users to ask questions and receive accurate, context-aware answers from a knowledge base.  
 
 **Key features:**
 - Semantic search using OpenAI embeddings  
@@ -21,7 +21,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system for qu
 
 ## Tech Stack
 - **Backend:** Python, LangChain  
-- **APIs:** Groq API, OpenAI Embeddings API  
+- **APIs:** OpenAI Embeddings API  
 - **Vector Store:** Any LangChain-supported vector store (FAISS)  
 - **Deployment:** Local or cloud-based Python environment  
 
